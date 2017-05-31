@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.db
+.DS_Store
+.coverage
+myvenv
+db.sqlite3
+local_settings.py
+/static
